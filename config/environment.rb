@@ -20,8 +20,8 @@ Rails::Initializer.run do |config|
   # config.gem "sqlite3-ruby", :lib => "sqlite3"
   # config.gem "aws-s3", :lib => "aws/s3"
 
- 	config.gem 'warden'
- 	config.gem 'devise'
+ 	config.gem 'warden', '1.0.3'
+ 	config.gem 'devise', '1.0.1'
  	
  	
  	config.action_mailer.default_url_options = { :host => 'localhost:3000' }
