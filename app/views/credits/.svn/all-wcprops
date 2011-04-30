@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/app/views/credits
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/app/views/credits/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/app/views/credits/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/app/views/credits/new.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/app/views/credits/show.html.erb
+END

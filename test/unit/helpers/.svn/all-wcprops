@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/test/unit/helpers
+END
+credits_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/test/unit/helpers/credits_helper_test.rb
+END
+user_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/test/unit/helpers/user_helper_test.rb
+END

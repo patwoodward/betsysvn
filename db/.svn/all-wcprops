@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/exactlyfactory_betty/!svn/ver/9/trunk/db
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/exactlyfactory_betty/!svn/ver/9/trunk/db/schema.rb
+END
+development.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/db/development.sqlite3
+END
+seeds.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/db/seeds.rb
+END

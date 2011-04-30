@@ -1,0 +1,27 @@
+<h1>New credit</h1>
+
+<% form_for([@user, @credit]) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :role %><br />
+    <%= f.text_field :role %>
+  </p>
+  <p>
+    <%= f.label :location %><br />
+    <%= f.text_field :location %>
+  </p>
+  <p>
+    <%= f.label :note %><br />
+    <%= f.text_area :note %>
+  </p>
+  <p>
+    <%= f.label :project %><br />
+    <%= f.text_field :project %>
+  </p>
+
+    <%= f.submit 'Create' %>
+  </p>
+<% end %>
+
+<%= link_to 'Back', user_credits_path %>

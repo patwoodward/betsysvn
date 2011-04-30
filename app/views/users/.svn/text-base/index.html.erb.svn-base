@@ -1,0 +1,5 @@
+<h1>User</h1>
+
+
+
+<%= link_to 'Credits', user_credits_path(@user, @credits)   %>

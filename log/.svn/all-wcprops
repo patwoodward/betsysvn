@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/exactlyfactory_betty/!svn/ver/10/trunk/log
+END
+test.log
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/log/test.log
+END
+production.log
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/log/production.log
+END
+server.log
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/log/server.log
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/db/migrate
+END
+20110410062826_devise_create_views.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/db/migrate/20110410062826_devise_create_views.rb
+END
+20110410035855_create_credits.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/db/migrate/20110410035855_create_credits.rb
+END
+20110410210503_devise_create_models.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/db/migrate/20110410210503_devise_create_models.rb
+END
+20110410024316_devise_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/db/migrate/20110410024316_devise_create_users.rb
+END

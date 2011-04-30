@@ -1,0 +1,129 @@
+10
+
+dir
+10
+http://exactlyfactory.unfuddle.com/svn/exactlyfactory_betty/trunk
+http://exactlyfactory.unfuddle.com/svn/exactlyfactory_betty
+
+
+
+2011-04-17T21:04:13.447828Z
+10
+danwoodward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e87734f7-d55a-4f53-82b6-0a2f7cd01d27
+
+test
+dir
+
+app
+dir
+
+tmp
+dir
+
+log
+dir
+
+Rakefile
+file
+
+
+
+
+2011-04-10T02:29:39.000000Z
+17f2f134da4cd31ea095d5868ca89e86
+2011-04-14T03:58:48.869945Z
+6
+patwoodward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+307
+
+script
+dir
+
+config
+dir
+
+db
+dir
+
+doc
+dir
+
+lib
+dir
+
+README.txt
+file
+
+
+
+
+2011-04-17T21:24:11.000000Z
+0183a5e8c875503fc8ed00f0c7cf5312
+2011-04-17T21:03:38.611281Z
+9
+danwoodward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65
+
+vendor
+dir
+
+public
+dir
+

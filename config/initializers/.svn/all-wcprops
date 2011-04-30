@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/config/initializers/inflections.rb
+END
+devise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/config/initializers/devise.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/config/initializers/session_store.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/config/initializers/backtrace_silencers.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/config/initializers/new_rails_defaults.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/config/initializers/mime_types.rb
+END

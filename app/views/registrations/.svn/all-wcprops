@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/app/views/registrations
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/app/views/registrations/edit.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/exactlyfactory_betty/!svn/ver/6/trunk/app/views/registrations/new.html.erb
+END
