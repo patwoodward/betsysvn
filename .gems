@@ -1,1 +1,3 @@
-devise
+rack --version 1.0.0
+rails --version 2.3.5
+devise --version 1.0.10
